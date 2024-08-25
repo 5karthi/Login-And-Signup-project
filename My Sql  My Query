@@ -1,0 +1,5 @@
+create database amaz;
+use amaz;
+create table ma(uname varchar(50),uemail varchar(50),upwd varchar(50),ucontact varchar(50));
+
+select * from ma
